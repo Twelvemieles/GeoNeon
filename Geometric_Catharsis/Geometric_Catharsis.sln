@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Geometric_Catharsis", "Geometric_Catharsis.csproj", "{FE2F4854-303F-15B3-510A-9FB38FCE7657}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Geometric_Catharsis.Plugins", "Geometric_Catharsis.Plugins.csproj", "{5B4D7FF6-C32E-B718-4B65-CAAD70FCEEE3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Geometric_Catharsis.Editor.Plugins", "Geometric_Catharsis.Editor.Plugins.csproj", "{8C35D86A-C323-694D-91CC-4658E7189C17}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE2F4854-303F-15B3-510A-9FB38FCE7657}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE2F4854-303F-15B3-510A-9FB38FCE7657}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE2F4854-303F-15B3-510A-9FB38FCE7657}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE2F4854-303F-15B3-510A-9FB38FCE7657}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B4D7FF6-C32E-B718-4B65-CAAD70FCEEE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B4D7FF6-C32E-B718-4B65-CAAD70FCEEE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B4D7FF6-C32E-B718-4B65-CAAD70FCEEE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B4D7FF6-C32E-B718-4B65-CAAD70FCEEE3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C35D86A-C323-694D-91CC-4658E7189C17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C35D86A-C323-694D-91CC-4658E7189C17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C35D86A-C323-694D-91CC-4658E7189C17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C35D86A-C323-694D-91CC-4658E7189C17}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
