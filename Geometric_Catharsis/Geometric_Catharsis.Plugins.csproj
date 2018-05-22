@@ -262,6 +262,144 @@
     <Reference Include="SyntaxTree.VisualStudio.Unity.Bridge">
       <HintPath>C:/Program Files (x86)/Microsoft Visual Studio Tools for Unity/15.0/Editor/SyntaxTree.VisualStudio.Unity.Bridge.dll</HintPath>
     </Reference>
+    <Reference Include="Assembly-CSharp">
+      <HintPath>Assets/LoQueLosPelaosHicieron/Yepes/Assets/Battle for the void/BuildFinal_Data/Managed/Assembly-CSharp.dll</HintPath>
+    </Reference>
+    <Reference Include="Mono.Security">
+      <HintPath>Assets/LoQueLosPelaosHicieron/Yepes/Assets/Battle for the void/BuildFinal_Data/Managed/Mono.Security.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Core">
+      <HintPath>Assets/LoQueLosPelaosHicieron/Yepes/Assets/Battle for the void/BuildFinal_Data/Managed/System.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="System">
+      <HintPath>Assets/LoQueLosPelaosHicieron/Yepes/Assets/Battle for the void/BuildFinal_Data/Managed/System.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.AccessibilityModule">
+      <HintPath>Assets/LoQueLosPelaosHicieron/Yepes/Assets/Battle for the void/BuildFinal_Data/Managed/UnityEngine.AccessibilityModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.AIModule">
+      <HintPath>Assets/LoQueLosPelaosHicieron/Yepes/Assets/Battle for the void/BuildFinal_Data/Managed/UnityEngine.AIModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.Analytics">
+      <HintPath>Assets/LoQueLosPelaosHicieron/Yepes/Assets/Battle for the void/BuildFinal_Data/Managed/UnityEngine.Analytics.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.AnimationModule">
+      <HintPath>Assets/LoQueLosPelaosHicieron/Yepes/Assets/Battle for the void/BuildFinal_Data/Managed/UnityEngine.AnimationModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.ARModule">
+      <HintPath>Assets/LoQueLosPelaosHicieron/Yepes/Assets/Battle for the void/BuildFinal_Data/Managed/UnityEngine.ARModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.AssetBundleModule">
+      <HintPath>Assets/LoQueLosPelaosHicieron/Yepes/Assets/Battle for the void/BuildFinal_Data/Managed/UnityEngine.AssetBundleModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.AudioModule">
+      <HintPath>Assets/LoQueLosPelaosHicieron/Yepes/Assets/Battle for the void/BuildFinal_Data/Managed/UnityEngine.AudioModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.BaselibModule">
+      <HintPath>Assets/LoQueLosPelaosHicieron/Yepes/Assets/Battle for the void/BuildFinal_Data/Managed/UnityEngine.BaselibModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.ClothModule">
+      <HintPath>Assets/LoQueLosPelaosHicieron/Yepes/Assets/Battle for the void/BuildFinal_Data/Managed/UnityEngine.ClothModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.CloudWebServicesModule">
+      <HintPath>Assets/LoQueLosPelaosHicieron/Yepes/Assets/Battle for the void/BuildFinal_Data/Managed/UnityEngine.CloudWebServicesModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.ClusterInputModule">
+      <HintPath>Assets/LoQueLosPelaosHicieron/Yepes/Assets/Battle for the void/BuildFinal_Data/Managed/UnityEngine.ClusterInputModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.ClusterRendererModule">
+      <HintPath>Assets/LoQueLosPelaosHicieron/Yepes/Assets/Battle for the void/BuildFinal_Data/Managed/UnityEngine.ClusterRendererModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.CoreModule">
+      <HintPath>Assets/LoQueLosPelaosHicieron/Yepes/Assets/Battle for the void/BuildFinal_Data/Managed/UnityEngine.CoreModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.CrashReportingModule">
+      <HintPath>Assets/LoQueLosPelaosHicieron/Yepes/Assets/Battle for the void/BuildFinal_Data/Managed/UnityEngine.CrashReportingModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.DirectorModule">
+      <HintPath>Assets/LoQueLosPelaosHicieron/Yepes/Assets/Battle for the void/BuildFinal_Data/Managed/UnityEngine.DirectorModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.FacebookModule">
+      <HintPath>Assets/LoQueLosPelaosHicieron/Yepes/Assets/Battle for the void/BuildFinal_Data/Managed/UnityEngine.FacebookModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.GameCenterModule">
+      <HintPath>Assets/LoQueLosPelaosHicieron/Yepes/Assets/Battle for the void/BuildFinal_Data/Managed/UnityEngine.GameCenterModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.GridModule">
+      <HintPath>Assets/LoQueLosPelaosHicieron/Yepes/Assets/Battle for the void/BuildFinal_Data/Managed/UnityEngine.GridModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.HotReloadModule">
+      <HintPath>Assets/LoQueLosPelaosHicieron/Yepes/Assets/Battle for the void/BuildFinal_Data/Managed/UnityEngine.HotReloadModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.ImageConversionModule">
+      <HintPath>Assets/LoQueLosPelaosHicieron/Yepes/Assets/Battle for the void/BuildFinal_Data/Managed/UnityEngine.ImageConversionModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.IMGUIModule">
+      <HintPath>Assets/LoQueLosPelaosHicieron/Yepes/Assets/Battle for the void/BuildFinal_Data/Managed/UnityEngine.IMGUIModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.InputModule">
+      <HintPath>Assets/LoQueLosPelaosHicieron/Yepes/Assets/Battle for the void/BuildFinal_Data/Managed/UnityEngine.InputModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.JSONSerializeModule">
+      <HintPath>Assets/LoQueLosPelaosHicieron/Yepes/Assets/Battle for the void/BuildFinal_Data/Managed/UnityEngine.JSONSerializeModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.Networking">
+      <HintPath>Assets/LoQueLosPelaosHicieron/Yepes/Assets/Battle for the void/BuildFinal_Data/Managed/UnityEngine.Networking.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.ParticlesLegacyModule">
+      <HintPath>Assets/LoQueLosPelaosHicieron/Yepes/Assets/Battle for the void/BuildFinal_Data/Managed/UnityEngine.ParticlesLegacyModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.ParticleSystemModule">
+      <HintPath>Assets/LoQueLosPelaosHicieron/Yepes/Assets/Battle for the void/BuildFinal_Data/Managed/UnityEngine.ParticleSystemModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.PerformanceReportingModule">
+      <HintPath>Assets/LoQueLosPelaosHicieron/Yepes/Assets/Battle for the void/BuildFinal_Data/Managed/UnityEngine.PerformanceReportingModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.Physics2DModule">
+      <HintPath>Assets/LoQueLosPelaosHicieron/Yepes/Assets/Battle for the void/BuildFinal_Data/Managed/UnityEngine.Physics2DModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.PhysicsModule">
+      <HintPath>Assets/LoQueLosPelaosHicieron/Yepes/Assets/Battle for the void/BuildFinal_Data/Managed/UnityEngine.PhysicsModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.ScreenCaptureModule">
+      <HintPath>Assets/LoQueLosPelaosHicieron/Yepes/Assets/Battle for the void/BuildFinal_Data/Managed/UnityEngine.ScreenCaptureModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.SharedInternalsModule">
+      <HintPath>Assets/LoQueLosPelaosHicieron/Yepes/Assets/Battle for the void/BuildFinal_Data/Managed/UnityEngine.SharedInternalsModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.SpatialTracking">
+      <HintPath>Assets/LoQueLosPelaosHicieron/Yepes/Assets/Battle for the void/BuildFinal_Data/Managed/UnityEngine.SpatialTracking.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.SpatialTrackingModule">
+      <HintPath>Assets/LoQueLosPelaosHicieron/Yepes/Assets/Battle for the void/BuildFinal_Data/Managed/UnityEngine.SpatialTrackingModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.SpriteMaskModule">
+      <HintPath>Assets/LoQueLosPelaosHicieron/Yepes/Assets/Battle for the void/BuildFinal_Data/Managed/UnityEngine.SpriteMaskModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.SpriteShapeModule">
+      <HintPath>Assets/LoQueLosPelaosHicieron/Yepes/Assets/Battle for the void/BuildFinal_Data/Managed/UnityEngine.SpriteShapeModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.StandardEvents">
+      <HintPath>Assets/LoQueLosPelaosHicieron/Yepes/Assets/Battle for the void/BuildFinal_Data/Managed/UnityEngine.StandardEvents.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.StyleSheetsModule">
+      <HintPath>Assets/LoQueLosPelaosHicieron/Yepes/Assets/Battle for the void/BuildFinal_Data/Managed/UnityEngine.StyleSheetsModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.SubstanceModule">
+      <HintPath>Assets/LoQueLosPelaosHicieron/Yepes/Assets/Battle for the void/BuildFinal_Data/Managed/UnityEngine.SubstanceModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.TerrainModule">
+      <HintPath>Assets/LoQueLosPelaosHicieron/Yepes/Assets/Battle for the void/BuildFinal_Data/Managed/UnityEngine.TerrainModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.TerrainPhysicsModule">
+      <HintPath>Assets/LoQueLosPelaosHicieron/Yepes/Assets/Battle for the void/BuildFinal_Data/Managed/UnityEngine.TerrainPhysicsModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.TextRenderingModule">
+      <HintPath>Assets/LoQueLosPelaosHicieron/Yepes/Assets/Battle for the void/BuildFinal_Data/Managed/UnityEngine.TextRenderingModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.TilemapModule">
+      <HintPath>Assets/LoQueLosPelaosHicieron/Yepes/Assets/Battle for the void/BuildFinal_Data/Managed/UnityEngine.TilemapModule.dll</HintPath>
+    </Reference>
     <Reference Include="UnityEngine.Advertisements">
       <HintPath>C:/Users/juand/AppData/LocalLow/Unity/cache/packages/packages.unity.com/com.unity.ads@2.0.3/UnityEngine.Advertisements.dll</HintPath>
     </Reference>
@@ -541,6 +679,48 @@
     <None Include="Assets\AssetsVariosLevel\FiltrosCamara\Resources\CameraFilterPack_Vision_Tunnel.shader" />
     <None Include="Assets\AssetsVariosLevel\FiltrosCamara\Resources\CameraFilterPack_Vision_Warp.shader" />
     <None Include="Assets\AssetsVariosLevel\FiltrosCamara\Resources\CameraFilterPack_Vision_Warp2.shader" />
+    <None Include="Assets\LoQueLosPelaosHicieron\Yepes\Assets\Battle for the void\BuildFinal_Data\Managed\UnityEngine.AIModule.xml" />
+    <None Include="Assets\LoQueLosPelaosHicieron\Yepes\Assets\Battle for the void\BuildFinal_Data\Managed\UnityEngine.ARModule.xml" />
+    <None Include="Assets\LoQueLosPelaosHicieron\Yepes\Assets\Battle for the void\BuildFinal_Data\Managed\UnityEngine.AccessibilityModule.xml" />
+    <None Include="Assets\LoQueLosPelaosHicieron\Yepes\Assets\Battle for the void\BuildFinal_Data\Managed\UnityEngine.AnimationModule.xml" />
+    <None Include="Assets\LoQueLosPelaosHicieron\Yepes\Assets\Battle for the void\BuildFinal_Data\Managed\UnityEngine.AssetBundleModule.xml" />
+    <None Include="Assets\LoQueLosPelaosHicieron\Yepes\Assets\Battle for the void\BuildFinal_Data\Managed\UnityEngine.AudioModule.xml" />
+    <None Include="Assets\LoQueLosPelaosHicieron\Yepes\Assets\Battle for the void\BuildFinal_Data\Managed\UnityEngine.BaselibModule.xml" />
+    <None Include="Assets\LoQueLosPelaosHicieron\Yepes\Assets\Battle for the void\BuildFinal_Data\Managed\UnityEngine.ClothModule.xml" />
+    <None Include="Assets\LoQueLosPelaosHicieron\Yepes\Assets\Battle for the void\BuildFinal_Data\Managed\UnityEngine.CloudWebServicesModule.xml" />
+    <None Include="Assets\LoQueLosPelaosHicieron\Yepes\Assets\Battle for the void\BuildFinal_Data\Managed\UnityEngine.ClusterInputModule.xml" />
+    <None Include="Assets\LoQueLosPelaosHicieron\Yepes\Assets\Battle for the void\BuildFinal_Data\Managed\UnityEngine.ClusterRendererModule.xml" />
+    <None Include="Assets\LoQueLosPelaosHicieron\Yepes\Assets\Battle for the void\BuildFinal_Data\Managed\UnityEngine.CoreModule.xml" />
+    <None Include="Assets\LoQueLosPelaosHicieron\Yepes\Assets\Battle for the void\BuildFinal_Data\Managed\UnityEngine.CrashReportingModule.xml" />
+    <None Include="Assets\LoQueLosPelaosHicieron\Yepes\Assets\Battle for the void\BuildFinal_Data\Managed\UnityEngine.DirectorModule.xml" />
+    <None Include="Assets\LoQueLosPelaosHicieron\Yepes\Assets\Battle for the void\BuildFinal_Data\Managed\UnityEngine.FacebookModule.xml" />
+    <None Include="Assets\LoQueLosPelaosHicieron\Yepes\Assets\Battle for the void\BuildFinal_Data\Managed\UnityEngine.GameCenterModule.xml" />
+    <None Include="Assets\LoQueLosPelaosHicieron\Yepes\Assets\Battle for the void\BuildFinal_Data\Managed\UnityEngine.GridModule.xml" />
+    <None Include="Assets\LoQueLosPelaosHicieron\Yepes\Assets\Battle for the void\BuildFinal_Data\Managed\UnityEngine.HotReloadModule.xml" />
+    <None Include="Assets\LoQueLosPelaosHicieron\Yepes\Assets\Battle for the void\BuildFinal_Data\Managed\UnityEngine.IMGUIModule.xml" />
+    <None Include="Assets\LoQueLosPelaosHicieron\Yepes\Assets\Battle for the void\BuildFinal_Data\Managed\UnityEngine.ImageConversionModule.xml" />
+    <None Include="Assets\LoQueLosPelaosHicieron\Yepes\Assets\Battle for the void\BuildFinal_Data\Managed\UnityEngine.InputModule.xml" />
+    <None Include="Assets\LoQueLosPelaosHicieron\Yepes\Assets\Battle for the void\BuildFinal_Data\Managed\UnityEngine.JSONSerializeModule.xml" />
+    <None Include="Assets\LoQueLosPelaosHicieron\Yepes\Assets\Battle for the void\BuildFinal_Data\Managed\UnityEngine.ParticleSystemModule.xml" />
+    <None Include="Assets\LoQueLosPelaosHicieron\Yepes\Assets\Battle for the void\BuildFinal_Data\Managed\UnityEngine.ParticlesLegacyModule.xml" />
+    <None Include="Assets\LoQueLosPelaosHicieron\Yepes\Assets\Battle for the void\BuildFinal_Data\Managed\UnityEngine.PerformanceReportingModule.xml" />
+    <None Include="Assets\LoQueLosPelaosHicieron\Yepes\Assets\Battle for the void\BuildFinal_Data\Managed\UnityEngine.Physics2DModule.xml" />
+    <None Include="Assets\LoQueLosPelaosHicieron\Yepes\Assets\Battle for the void\BuildFinal_Data\Managed\UnityEngine.PhysicsModule.xml" />
+    <None Include="Assets\LoQueLosPelaosHicieron\Yepes\Assets\Battle for the void\BuildFinal_Data\Managed\UnityEngine.ScreenCaptureModule.xml" />
+    <None Include="Assets\LoQueLosPelaosHicieron\Yepes\Assets\Battle for the void\BuildFinal_Data\Managed\UnityEngine.SharedInternalsModule.xml" />
+    <None Include="Assets\LoQueLosPelaosHicieron\Yepes\Assets\Battle for the void\BuildFinal_Data\Managed\UnityEngine.SpatialTrackingModule.xml" />
+    <None Include="Assets\LoQueLosPelaosHicieron\Yepes\Assets\Battle for the void\BuildFinal_Data\Managed\UnityEngine.SpriteMaskModule.xml" />
+    <None Include="Assets\LoQueLosPelaosHicieron\Yepes\Assets\Battle for the void\BuildFinal_Data\Managed\UnityEngine.SpriteShapeModule.xml" />
+    <None Include="Assets\LoQueLosPelaosHicieron\Yepes\Assets\Battle for the void\BuildFinal_Data\Managed\UnityEngine.StyleSheetsModule.xml" />
+    <None Include="Assets\LoQueLosPelaosHicieron\Yepes\Assets\Battle for the void\BuildFinal_Data\Managed\UnityEngine.SubstanceModule.xml" />
+    <None Include="Assets\LoQueLosPelaosHicieron\Yepes\Assets\Battle for the void\BuildFinal_Data\Managed\UnityEngine.TerrainModule.xml" />
+    <None Include="Assets\LoQueLosPelaosHicieron\Yepes\Assets\Battle for the void\BuildFinal_Data\Managed\UnityEngine.TerrainPhysicsModule.xml" />
+    <None Include="Assets\LoQueLosPelaosHicieron\Yepes\Assets\Battle for the void\BuildFinal_Data\Managed\UnityEngine.TextRenderingModule.xml" />
+    <None Include="Assets\LoQueLosPelaosHicieron\Yepes\Assets\Battle for the void\BuildFinal_Data\Managed\UnityEngine.TilemapModule.xml" />
+    <None Include="Assets\LoQueLosPelaosHicieron\Yepes\Assets\ProjectSettings\ProjectVersion.txt" />
+    <None Include="Assets\LoQueLosPelaosHicieron\Yepes\Assets\SimpleFX\Materials\UnlitVertexColour_Alpha.shader" />
+    <None Include="Assets\LoQueLosPelaosHicieron\Yepes\Holamundo.txt" />
+    <None Include="Assets\LoQueLosPelaosHicieron\Yepes\ProjectSettings\ProjectVersion.txt" />
     <None Include="Assets\Standard Assets\CrossPlatformInput\CrossPlatformInputGuidelines.txt" />
     <None Include="Assets\Standard Assets\Prototyping\Shaders\WorldCoordDiffuse.shader" />
     <None Include="Assets\_Creepy_Cat\3D Games Effects Pack Free\_FAQ - Informations\Help Readme SOS.txt" />
